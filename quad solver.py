@@ -27,7 +27,7 @@ b = int(input('Enter b:'))
 c = int(input('Enter c:'))  
  
 if a == 0:  
-    print("Input correct quadratic equation")  
+    print("Input incorrect ")  
   
 else:  
     findRoots(a, b, c)  
